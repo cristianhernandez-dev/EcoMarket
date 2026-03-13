@@ -169,14 +169,3 @@ http://localhost:5173
 
 # 🖥 Captura de la aplicación
 
-Aquí puedes agregar una captura del proyecto funcionando.
-
----
-
-# 👨‍💻 Autor
-
-Proyecto desarrollado por:
-
-**Cristián Hernández**
-
-Curso: Desarrollo de aplicaciones front-end con Vue
