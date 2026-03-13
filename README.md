@@ -169,3 +169,14 @@ http://localhost:5173
 
 # 🖥 Captura de la aplicación
 
+/images/ecomarket.png
+
+---
+
+# 👨‍💻 Autor
+
+Proyecto desarrollado por:
+
+**Cristián Hernández**
+
+Curso: Desarrollo de aplicaciones front-end con Vue
